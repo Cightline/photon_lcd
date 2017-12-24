@@ -1,0 +1,7 @@
+{
+    "api_key":"wunder_ground_api_key",
+    "state":"MT",
+    "city":"Great Falls",
+    "id":"photon_id",
+    "access_token":"your_access_token"
+}

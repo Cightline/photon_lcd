@@ -1,7 +1,0 @@
-{
-    "api_key":"[wunderground_key]",
-    "state":"TX",
-    "city":"Dallas",
-    "id":"[electron_id]",
-    "access_token":"[electron_access_token]"
-}
